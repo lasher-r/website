@@ -1,4 +1,4 @@
-baseurl = "lasher.dev"
+baseurl = "https://lasher.dev/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
