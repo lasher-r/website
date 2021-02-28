@@ -4,9 +4,11 @@
 
 [_Software Craftsman, The: Professionalism, Pragmatism, Pride_ by Sandro Mancuso](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/ref=sr_1_1?crid=2CTLBPE4Q099I&dchild=1&keywords=software+craftsman&qid=1606002429&sprefix=software+cra%2Caps%2C194&sr=8-1)
 
+[_Refactoring: Improving the Design of Existing Code_ by Martin Fowler](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?crid=C2JA5FJZ18H2&dchild=1&keywords=refactoring&qid=1614490953&sprefix=refac%2Caps%2C225&sr=8-1)
+
 [_C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_ by Andrei Alexandrescu](https://www.amazon.com/Coding-Standards-Guidelines-Practices-Depth-ebook/dp/B004ISL6I0/ref=sr_1_1?crid=2PBZ3SCDZ9NSL&dchild=1&keywords=c%2B%2B+best+practices&qid=1606002504&sprefix=c%2B%2B+best%2Caps%2C188&sr=8-1)
 
 [_The Elements of Computing Systems: Building a Modern Computer from First Principles_ by Noam Nisan and Shimon Schocken
 ](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=sr_1_1?crid=62L8YTG7ROT9&dchild=1&keywords=the+elements+of+computing+systems&qid=1613535468&sprefix=the+elements+of+%2Caps%2C209&sr=8-1)
 
-[_Digital Computer Electronics_ by by Albert Malvino and Jerald Brown](https://www.amazon.com/Digital-Computer-Electronics-Jerald-Malvino/dp/0074622358/ref=sr_1_1?crid=36CYIO10QC821&dchild=1&keywords=digital+computer+electronics+albert+paul+malvino&qid=1613535543&sprefix=digital+compu%2Caps%2C203&sr=8-1)
+[_Digital Computer Electronics_ by Albert Malvino and Jerald Brown](https://www.amazon.com/Digital-Computer-Electronics-Jerald-Malvino/dp/0074622358/ref=sr_1_1?crid=36CYIO10QC821&dchild=1&keywords=digital+computer+electronics+albert+paul+malvino&qid=1613535543&sprefix=digital+compu%2Caps%2C203&sr=8-1)
