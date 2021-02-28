@@ -1,6 +1,6 @@
 +++
 title = "hello world [again]"
-showFullContent = false
+showFullContent = true
 +++
 
 This is roughly my third iteration of my site. The first was essentially me shouting half baked ideas about software development into the void. The second was a repository for things that I need regularly but not often. Things like dot files for different types of machines, common shell commands that I don't use everyday, and articles that cover questions that I sometimes get about the process of development.
